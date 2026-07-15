@@ -85,8 +85,9 @@ span {
 
 @media (max-width: 600px) {
     section {
-        width: 400px;
+        max-width: 500px;
         margin: 90px;
+        overflow: hidden;
     }
 
     h1 {
