@@ -126,8 +126,8 @@ span {
 
     p {
         position: absolute;
-        left: 200px;
-        top: 326px;
+        left: 0px;
+        top: 36px;
         color: rgb(0, 255, 85);
         font-weight: 500;
         font-size: 13px;
