@@ -86,7 +86,7 @@ span {
 
 @media (max-width: 600px) {
     section {
-        max-width: 500px;
+        max-width: 230px;
     }
 
     section h1 {
@@ -127,8 +127,8 @@ span {
     p {
         position: absolute;
         left: 150px;
-        top: 365px;
-        color: rgb(0, 255, 85);
+        top: 375px;
+        color: rgb(235, 223, 223);
         font-weight: 600;
         font-size: 15px;
     }
