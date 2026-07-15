@@ -87,6 +87,7 @@ span {
 @media (max-width: 600px) {
     section {
         max-width: 230px;
+        margin-left: 20px;
     }
 
     section h1 {
