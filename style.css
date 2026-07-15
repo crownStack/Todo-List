@@ -88,7 +88,7 @@ span {
         max-width: 400px;
         margin: 90px;
     }
-    
+
     section div {
         justify-self: center;
     }
@@ -109,6 +109,7 @@ span {
 
     section div ul li {
         font-size: 15px;
+        color: #000;
     }
 
     li button {
@@ -117,5 +118,14 @@ span {
         position: relative;
         top: -2px;
         padding: 5px 0px;
+    }
+
+    p {
+        position: absolute;
+        left: 200px;
+        top: 326px;
+        color: red;
+        font-weight: 500;
+        font-size: 13px;
     }
 }
