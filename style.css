@@ -64,6 +64,7 @@ button {
     border-radius: 10px;
     border: none;
     cursor: pointer;
+    color: #000;
 }
 
 p {
@@ -91,7 +92,7 @@ span {
     }
 
     h1 {
-        font-size: 30px;
+        font-size: 20px;
     }
 
     section div {
@@ -114,7 +115,7 @@ span {
 
     section div ul li {
         font-size: 15px;
-        color: #000;
+        color: #ffffff;
     }
 
     li button {
