@@ -86,7 +86,7 @@ span {
 @media (max-width: 600px) {
     section {
         max-width: 400px;
-        margin: 30px;
+        margin: 90px;
     }
     section div {
         justify-self: center;
@@ -94,6 +94,7 @@ span {
 
     #input {
         margin-top: 30px;
+        width: 200px;
     }
 
     #btn {
@@ -101,13 +102,19 @@ span {
     }
 
     section div ul {
-        width: 230px;
+        width: 200px;
+        padding: 20px 10px;
+    }
+
+    section div ul li {
+        font-size: 15px;
     }
 
     li button {
         font-size: 13px;
         width: 70px;
         position: relative;
-        top: -5px;
+        top: -2px;
+        padding: 5px 0px;
     }
 }
